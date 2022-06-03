@@ -7,6 +7,6 @@ The Powerful Search Bookmarklet will help you search simultaneously the followin
 - bing.com
 - ahmia.fi (Dark Web Search)
 
-Simple Copy/paste the below code, instructions and set up are on the .readme file.
+Simple Copy/paste the below code: (instructions and set up are on the .readme file)
 
 javascript:(function()%7Bvar request%3Dprompt("Enter your request%3A ")%3Bvar googlesearch%3D"https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3D%2522"%2Brequest%2B"%2522"%3Bwindow.open(googlesearch%2C " _blank")%3Bvar duckduckgosearch%3D"https%3A%2F%2Fduckduckgo.com%2F%3Fq%3D%2522"%2Brequest%2B"%2522"%3Bwindow.open(duckduckgosearch%2C "_blank")%3Bvar yandexsearch%3D"https%3A%2F%2Fyandex.com%2F%3Fq%3D%2522"%2Brequest%2B"%2522"%3Bwindow.open(yandexsearch%2C "_blank")%3Bvar qwantsearch%3D"https%3A%2F%2Fqwant.com%2F%3Fq%3D%2522"%2Brequest%2B"%2522"%3Bwindow.open(qwantsearch%2C "_blank")%3Bvar bing%3D"https%3A%2F%2Fwww.bing.com%2Fsearch%3Fq%3D%2522"%2Brequest%2B"%2522"%3Bwindow.open(bing%2C "_ blank")%3Bvar ahmiasearch%3D"https%3A%2F%2Fahmia.fi%2Fsearch%2F%3Fq%3D%2522"%2Brequest%2B"%2522"%3Bwindow.open(ahmiasearch%2C "_ blank")%7D)()
