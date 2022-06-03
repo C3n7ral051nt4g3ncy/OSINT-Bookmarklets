@@ -16,7 +16,7 @@ When you run this, you will be able to do a simultaneous search on **Google**, *
 
 
 # How to set yourself up 🛠
-In Google Chrome for example: Bookmarks --> Bookmark Manager -->  Add New Bookmark --> Give the name you want to give to your search Tool --> In URL Paste your Javascript Bookmarklet.
+In Google Chrome for example: Bookmarks --> Bookmark Manager -->  Add New Bookmark --> Give the name you want to give to your search Tool --> In URL Paste your Javascript Bookmarklet and click save.
 That's it you're done, to run the code, simply click on the bookmarklet, type the search, press enter and enjoy! 
 <br>
 <br>
