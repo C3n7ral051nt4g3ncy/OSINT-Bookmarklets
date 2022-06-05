@@ -4,7 +4,8 @@
 
 - google.com 🇺🇸
 - duckduckgo.com 🇺🇸
-- yandex.com 🇨🇳
+- yandex.com 🇷🇺
+- Baidu 🇨🇳
 - qwant.com 🇫🇷
 - bing.com 🇺🇸
 - ahmia.fi 🇫🇮 (Dark Web Search) 
