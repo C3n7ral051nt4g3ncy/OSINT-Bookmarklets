@@ -21,7 +21,7 @@ You can use OSINT Bookmarklets (Javascript) to be much faster and more efficient
   
 # PSB (The Powerful Search Bookmarklet) 💪🏼
 Feel free to use this bookmarklet, you will see the code within this repository.
-When you run this, you will be able to do a simultaneous search on **Google**, **Yandex**, **Bing**, **Qwant**, **DuckDuckGo**, **Baidu**, and **Ahmia to search the Dark Web.** 🌑
+When you run this, you will be able to do a simultaneous search on **Google** 🇺🇸, **Yandex** 🇷🇺, **Bing** 🇺🇸, **Qwant** 🇫🇷, **DuckDuckGo** 🇺🇸, **Baidu**🇨🇳, and **Ahmia 🇫🇮to search the Dark Web.** 🌑
 <br>
 <br>
 # How to set yourself up 🛠
