@@ -1,5 +1,6 @@
 # OSINT-Bookmarklets 🏷️
 You can use OSINT Bookmarklets (Javascript) to be much faster and more efficient with your searches, from a single click in your browser and a single search,  you can expand your request to various websites at the same time, which is classed as semi-automation.
+
 <br>
 <br>
 # Bookmarklets Advantages 🚀
@@ -10,11 +11,13 @@ You can use OSINT Bookmarklets (Javascript) to be much faster and more efficient
 - Only websites (tabs) you choose and target within your Javascript code will open.
 <br>
 
-# Bookmarklet usage on:
+# Bookmarklets tested on:
+My Bookmarklets should work on any Browser, they have been tested on the following ones:
 <p float="left">
-<img width="133" src="https://user-images.githubusercontent.com/104733166/171883438-a395404b-b2c3-48af-a65c-8a8e85290012.png">
-<img width="133" src="https://user-images.githubusercontent.com/104733166/171883448-f86db8ea-1b6a-4cc1-8d91-ea670b39367f.png">
-<img width="133" src="https://user-images.githubusercontent.com/104733166/171884022-23230cd3-20e3-4c60-ab5f-96ba0e84735c.png">
+<img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white">
+<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
+<img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white">
 <br>
 <br>
 
