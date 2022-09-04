@@ -3,6 +3,7 @@ You can use OSINT Bookmarklets (Javascript) to be much faster and more efficient
 
 <br>
 <br>
+
 # Bookmarklets Advantages 🚀
 - Semi-Automated searching
 - Faster searching 
