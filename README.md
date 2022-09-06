@@ -7,7 +7,7 @@ You can use OSINT Bookmarklets (Javascript) to be much faster and more efficient
 # Bookmarklets Advantages 🚀
 - Semi-Automated searching
 - Faster searching 
-- More efficient with your research
+- More efficiency with your research
 - Less time wasted opening each website or search engine
 - Only websites (tabs) you choose and target within your Javascript code will open.
 <br>
