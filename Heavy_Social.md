@@ -4,7 +4,7 @@
 <img width="433" src="https://user-images.githubusercontent.com/104733166/196797100-7af0b88b-0158-4716-806d-89947a0b7f6f.png">
 
 
-### This bookmarklet will search a username across:
+### This bookmarklet will search for a username across:
 - Twitter
 - Facebook
 - Linkedin
